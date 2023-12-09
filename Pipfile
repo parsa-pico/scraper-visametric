@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+playsound = "==1.2.2"
+psutil = "*"
+python-vlc = "*"
+just-playback = "*"
+pipreqs = "*"
+jdatetime = "*"
+pywin32 = "*"
+mpy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
